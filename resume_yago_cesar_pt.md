@@ -6,32 +6,22 @@
 
 # Yago César do Nascimento Aguiar
 
+**Engenheiro de Software | Desenvolvedor Full-Stack**
+
 +55 (83) 98644-4212 | João Pessoa, PB | [yagocdj@gmail.com](mailto:yagocdj@gmail.com) | [linkedin.com/in/yago-césar](https://linkedin.com/in/yago-c%C3%A9sar) | [github.com/yagocdj](https://github.com/yagocdj)
 
-## Objetivo
+## Resumo Profissional
 
-Engenheiro de Software e Desenvolvedor Full-Stack com 4+ anos de experiência em aplicações web, mobile e desktop (TypeScript, Python, Java), em busca de vagas de Engenheiro de Software em tempo integral.
-
-## Educação
-
-### Instituto Federal da Paraíba (IFPB)
-
-**Mestrado Profissional em TI (*Stricto Sensu*)** | Previsto: Jan 2028
-
-Disciplinas relevantes: Ciência de Dados, Aprendizado de Máquina, Métodos Estatísticos, Processo KDD e PLN.
-
-**Graduação em Sistemas para Internet** | Mar 2022 - Out 2025
-
-Disciplinas relevantes: Estruturas de Dados, Algoritmos, Bancos de Dados, Sistemas Distribuídos, Design Patterns e POO.
+Engenheiro de Software e Desenvolvedor Full-Stack com 4+ anos de experiência no desenvolvimento e manutenção de aplicações web, mobile e desktop em **TypeScript**, **Python** e **Java** (**React Native**, **Vue.js/Nuxt**, **Express.js**, **Flask**, **PostgreSQL**). Experiência na modelagem de APIs RESTful, ORMs (**Prisma**, **SQLAlchemy**) e testes automatizados de alta cobertura, aplicando fluxos assistidos por IA (**Claude Code**, **GitHub Copilot**, Spec-Driven Development) para acelerar entregas com qualidade.
 
 ## Competências Técnicas
 
 - **Linguagens:** Python, TypeScript, JavaScript, Java, SQL, HTML5, CSS3
-- **Frameworks e Bibliotecas:** React Native, Vue.js / Nuxt, Express.js, Node.js, Flask, Spring Boot, TanStack Query
-- **Bancos de Dados e ORMs:** PostgreSQL, MongoDB, Prisma ORM, SQLAlchemy
-- **IA, ML e Dados:** LangChain, Ollama, LLMs / SLMs, PLN, Scikit-learn, Pandas, NumPy, OpenCV
+- **Frameworks e Bibliotecas:** React Native, Vue.js / Nuxt, Express.js, Node.js, Flask, Spring Boot, TanStack Query (React Query), jQuery
+- **Bancos de Dados e ORMs:** PostgreSQL, MongoDB (NoSQL), Prisma ORM, SQLAlchemy
+- **IA, ML e Dados:** LangChain, Ollama, LLMs / SLMs, Processamento de Linguagem Natural (PLN), Scikit-learn, Pandas, NumPy, OpenCV
 - **Dev. Assistido por IA:** Claude Code, GitHub Copilot, Spec-Driven Development
-- **Ferramentas e Práticas:** Git, GitLab, Docker, CI/CD, REST APIs, Swagger, Jest, Vitest, SOLID, Scrum, Kanban
+- **Ferramentas e Práticas:** Git, GitLab, Docker, CI/CD, APIs RESTful, Swagger, Jest, React Native Testing Library, Vitest, Unittest, Clean Architecture, SOLID, Scrum, Kanban
 - **Idiomas:** Português (nativo); Inglês (C2 - EF SET 73/100, [validar](https://cert.efset.org/pt/b7vUK5))
 
 ## Experiência Profissional
@@ -41,9 +31,9 @@ Disciplinas relevantes: Estruturas de Dados, Algoritmos, Bancos de Dados, Sistem
 **Engenheiro de Software** | Fev 2026 - Out 2026
 
 - Projetou, implementou e documentou funcionalidades para apps web e mobile multiplataforma (**React Native**), com **ownership** total de cada módulo em ambiente de *startup*, seguindo Clean Architecture e Design Patterns.
-- Desenvolveu APIs REST escaláveis (**Express.js**, **Prisma ORM**) priorizando desempenho, integridade e manutenção.
+- Desenvolveu APIs RESTful escaláveis (**Express.js**, **Prisma ORM**) priorizando desempenho, integridade e manutenção.
 - Aplicou Spec-Driven Development com IA (Claude Code, GitHub Copilot) para acelerar entregas com qualidade.
-- Criou testes (Jest, RN Testing Library) em uma base com 10 mil+ testes; usou **TanStack Query** no consumo de dados.
+- Criou testes unitários (Jest, React Native Testing Library) em uma base com 10 mil+ testes; usou **TanStack Query (React Query)** no consumo de dados.
 
 ### Assert IFPB - João Pessoa, PB
 
@@ -51,7 +41,7 @@ Disciplinas relevantes: Estruturas de Dados, Algoritmos, Bancos de Dados, Sistem
 
 **Estagiário em Desenvolvimento Full-Stack** | Abr 2025 - Ago 2025
 
-- Desenvolveu apps (**Flask**, **Nuxt**/Vue.js, **PostgreSQL**, SQLAlchemy) com APIs REST documentadas via Swagger.
+- Desenvolveu apps (**Flask**, **Nuxt**/Vue.js, **PostgreSQL**, SQLAlchemy) com APIs RESTful documentadas via Swagger.
 - Escreveu testes unitários (Unittest, Vitest), mantendo cobertura **acima de 80%**.
 - Geriu entregas em Scrum/Kanban com OpenProject, Git e GitLab (*merge requests*, conflitos de *branches*).
 
@@ -72,9 +62,24 @@ Disciplinas relevantes: Estruturas de Dados, Algoritmos, Bancos de Dados, Sistem
 
 ## Projetos
 
-### Bem-te-vejo
+### Bem-te-vejo - SIDE (Group on Semantics, Intelligence and Data Ecosystems)
 
-Projeto de pesquisa no SIDE - Group on Semantics, Intelligence and Data Ecosystems (Abr 2025 - Presente), iniciado durante a graduação e ampliado no mestrado. Liderou P&D de um agente conversacional de apoio ao autocuidado e identificação de sinais de depressão, com arquiteturas de PLN em **LangChain** e **Ollama** (LLMs e SLMs).
+**Pesquisador em IA / PLN** | Abr 2025 - Presente
+
+- Liderou P&D de um agente conversacional de apoio ao autocuidado e identificação de sinais de depressão, iniciado na graduação e ampliado no mestrado.
+- Projetou arquiteturas de Processamento de Linguagem Natural (PLN) em **LangChain** e **Ollama**, integrando LLMs e SLMs de ponta.
+
+## Educação
+
+### Instituto Federal da Paraíba (IFPB)
+
+**Mestrado Profissional em TI (*Stricto Sensu*)** | Previsto: Jan 2028
+
+Disciplinas relevantes: Ciência de Dados, Aprendizado de Máquina, Métodos Estatísticos, Processo KDD e Processamento de Linguagem Natural (PLN).
+
+**Graduação em Sistemas para Internet** | Mar 2022 - Out 2025
+
+Disciplinas relevantes: Estruturas de Dados, Algoritmos, Bancos de Dados, Sistemas Distribuídos, Design Patterns e POO.
 
 ## Premiações e Monitoria
 
